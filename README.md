@@ -4,7 +4,7 @@
 
 **Repository:** UCI Machine Learning.
 
-**Link:** https://archive.ics.uci.edu/dataset/502/online+retail+ii
+[Dataset Link](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 
 **Description:** This online sales dataset contains all transactions made by a non-store, UK-based registered company between December 1, 2009, and December 9, 2011. Many of the company's customers are wholesalers.
 
