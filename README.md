@@ -1,6 +1,6 @@
-# ETL-Retail-Sales-Analysis
+# Online Retail: Sales Analysis
 
-**Dataset:** Online Retail II
+## Information:
 
 **Repository:** UCI Machine Learning.
 
@@ -11,6 +11,8 @@
 **Associated Tasks:** Regression, classification, and clustering.
 
 **Number of Attributes:** 8.
+
+**Task to perform:** ETL Process
 
 **Number of Observations:** 1,067,371.
 
@@ -27,7 +29,9 @@
 | **Customer ID**| Numeric     | A 5-digit integral number uniquely assigned to each customer.                                                                          |
 | **Country**   | Categorical | The name of the country where a customer resides.                                                                                      |
 
-**Business Understanding:** When managing a sales site, the goal as an entrepreneur is to increase profits, which translates to reaching more customers and/or increasing sales even if the number of customers remains the same. To achieve this, it is necessary to employ different market strategies, which in turn requires a rigorous study of the sector to understand market behavior according to country, customer, date, product, etc. For this reason, it is proposed to obtain different graphs that allow visualizing sales behaviors according to other parameters.
+## Business Understanding: 
+
+When managing a sales site, the goal as an entrepreneur is to increase profits, which translates to reaching more customers and/or increasing sales even if the number of customers remains the same. To achieve this, it is necessary to employ different market strategies, which in turn requires a rigorous study of the sector to understand market behavior according to country, customer, date, product, etc. For this reason, it is proposed to obtain different graphs that allow visualizing sales behaviors according to other parameters.
 
 **Objective:** Perform data preprocessing to obtain the following graphs:
 
