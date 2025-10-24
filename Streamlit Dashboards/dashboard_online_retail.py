@@ -105,5 +105,5 @@ df_report = pd.DataFrame(report).transpose()
 st.dataframe(df_report)
 
 # 3.3 Deployment and testing
-# Test the dashboard locally using the instruction in the CLI
-# python -m streamlit run dashboard_online_retail.py
+# Test the dashboard locally using the instruction in the CLI:
+# python -m streamlit run "Streamlit Dashboards/dashboard_online_retail.py"

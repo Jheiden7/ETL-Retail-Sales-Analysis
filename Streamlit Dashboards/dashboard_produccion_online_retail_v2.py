@@ -135,5 +135,5 @@ ax.set_title('Quantity vs StockCode')
 st.pyplot(fig)
 
 # Deployment and testing:
-# Test the dashboard locally using the instruction in the CLI
-# python -m streamlit run dashboard_produccion_online_retail_v2.py
+# Test the dashboard locally using the instruction in the CLI:
+# python -m streamlit run "Streamlit Dashboards/dashboard_produccion_online_retail_v2.py"
